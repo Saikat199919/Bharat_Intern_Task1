@@ -6,6 +6,8 @@ A portfolio website made up of HTML,
 CSS telling about you and your
 accomplishments.
 
+and Implemented media queries for responsiveness
+
 # Screenshots
 
 # 1. Desktop Vieww :
@@ -19,6 +21,3 @@ accomplishments.
 # 3. Tabular View (Responsiveness):
 
 ![Screenshot (566)](https://github.com/Saikat199919/Bharat_Intern_Task1/assets/121059137/a22ec7d0-d6a4-4bfb-91d2-adde428d8221)
-
-# Note: 
-Implemented media queries for responsiveness
