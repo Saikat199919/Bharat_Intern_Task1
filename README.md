@@ -1,12 +1,15 @@
 # Bharat_Intern_Task1
 
-# Portfolio Website :
+# Project Title: Portfolio Website 
 
 A portfolio website made up of HTML,
 CSS telling about you and your
 accomplishments.
 
 and Implemented media queries for responsiveness
+
+Description:
+This GitHub repository is my first one page portfolio website project created using HTML, CSS. This project offers a practical learning experience for web development enthusiasts. 
 
 # Screenshots
 
