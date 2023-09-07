@@ -13,7 +13,7 @@ This GitHub repository is my first one page portfolio website project created us
 
 # Screenshots
 
-# 1. Desktop Vieww :
+# 1. Desktop View :
 ![Screenshot (563)](https://github.com/Saikat199919/Bharat_Intern_Task1/assets/121059137/d0563eb4-04d3-4de8-baa4-fe150d43f764)
 
 # 2. Mobile View (Responsivness):
