@@ -194,7 +194,7 @@ body{
 }
 
 .about p{
-    color: #E1D9D1;
+    color: white;
     margin: 1.5rem 0;
 }
 
@@ -219,7 +219,7 @@ body{
 }
 
 .work .workbox .desc h3{
-    color: #f2f2f2;
+    color: #f44658;
     margin-bottom: 3px;
 }
 
